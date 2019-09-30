@@ -29,11 +29,13 @@ img {
    height: 300px;
    margin: 10px;
    transition: all 1s;
+   /* Transitions once a action is on it  */
 }
 
 img:hover {
     transform: scale(1.1);
-    
+    /* transforms on a scale (growing)
+     */
 }
 
 
